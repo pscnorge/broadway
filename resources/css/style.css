@@ -3,6 +3,8 @@ body {
   background-color: white;
   color: black;
   text-align: center;
+  border-left: solid black 100px;
+  border-right: solid black 100px;
 }
 header {
   background-image: url("../images/the-flatiron-building.png");
