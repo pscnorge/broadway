@@ -2,13 +2,12 @@ body {
   font-family: Helvetica, sans-serif;
   background-color: black;
   text-align: center;
-  border-left: solid black 100px;
-  border-right: solid black 100px;
+  margin:0;
 }
 #content {
   background-color: white;
   color: black;
-  padding: 0 150px 0 150px;
+  margin: 0 150px 0 150px;
 }
 header {
   background-image: url("../images/the-flatiron-building.png");
