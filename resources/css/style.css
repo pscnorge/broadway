@@ -12,6 +12,7 @@ body {
   padding: 10px;
 }
 header {
+  margin-top:10px;
   background-image: url("../images/the-flatiron-building.png");
 }
 nav {
