@@ -19,7 +19,7 @@ nav ul {
 nav ul li {
   padding-bottom: 10px;
 }
-h1  {
+h1 {
   font-weight: bold;
   font-size: 70px;
   color: white;
@@ -41,5 +41,5 @@ p {
   color: white;
 }
 #copyright {
-  font-weight: 11px;
+  font-size: 11px;
 }
