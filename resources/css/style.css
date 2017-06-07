@@ -39,7 +39,6 @@ p {
   font-size: 11px;
 }
 h2.fancybg {
-  display: block;
   background-image: url("../images/the-flatiron-building.png");
   font-size: 23px;
   color: white;
