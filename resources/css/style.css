@@ -35,12 +35,12 @@ h3 {
 p {
   font-size: 14px;
 }
+#copyright {
+  font-size: 11px;
+}
 h2.fancybg {
   display: block;
   background-image: url("../images/the-flatiron-building.png");
   font-size: 23px;
   color: white;
-}
-#copyright {
-  font-size: 11px;
 }
