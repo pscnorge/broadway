@@ -42,8 +42,8 @@ h2.fancybg {
 }
 footer {
   background-color: dimgray;
-}
-#copyright {
+  color: white;
+  text-align: left;
   font-size: 11px;
 }
 footer nav {
