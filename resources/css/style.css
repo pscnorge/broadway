@@ -13,8 +13,10 @@ h1  {
   color: white;
 }
 nav {
-  color: white;
   font-size: 18px;
+}
+nav a {
+  color: white;
 }
 nav ul {
   list-style-type: none;
